@@ -6,8 +6,10 @@
 - ☑ ️腾讯IM环境集成, 2025-02-13
 - ☑ 实现1v1对话，发送一条消息, 2025-02-13
 - ☑ 实现群对话, 2025-02-13
-- 自定义发送一个消息体
-- 自定义气泡
+- ☑ 输入栏点加号展开工具栏, 2025-02-13
+- ☑ 体验：引用、转发、合并信息转发等功能，2025-02-13
+- ☑ 自定义发送一个消息体，/TUIKit/components/TUIChat/message-list/message-elements/message-custom.vue
+- 自定义热门，静态热词 & 动态热词
 - 更多实践中...
 
 ## 开发环境要求
@@ -31,3 +33,4 @@ Peter Zhu (taoqianbao@gmail.com)
 * [消息格式描述](https://cloud.tencent.com/document/product/269/2720)
 * [自定义消息体](https://cloud.tencent.cn/document/product/269/79115)
 * [chat-uikit-uniapp （vue2 / vue3）是基于腾讯云 Chat SDK 的一款 uniapp UI 组件库](https://github.com/TencentCloud/chat-uikit-uniapp)
+* [即时通信IM计费概述](https://cloud.tencent.com/document/product/269/11673)
