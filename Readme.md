@@ -3,11 +3,12 @@
 
 ## todo
 
-- 腾讯IM环境集成 ☑️
-- 实现1v1对话，发送一条消息 ☑
-- 实现群对话 ☑
+- ☑ ️腾讯IM环境集成, 2025-02-13
+- ☑ 实现1v1对话，发送一条消息, 2025-02-13
+- ☑ 实现群对话, 2025-02-13
 - 自定义发送一个消息体
 - 自定义气泡
+- 更多实践中...
 
 ## 开发环境要求
 * HBuilderX 需要升级到最新版本
@@ -22,6 +23,7 @@ Peter Zhu (taoqianbao@gmail.com)
 2025-02-13
 
 ## 帮助文档
+* [腾讯云-即时通信IM应用申请入口](https://console.cloud.tencent.com/im)
 * [文档中心>即时通信 IM>聊天互动（含 UI）>仅集成聊天>uni-app](https://cloud.tencent.com/document/product/269/96744)
 * [集成指南](https://console.cloud.tencent.com/im/tool-guide)
 * [Official JavaScript SDK for Tencent Cloud Chat](https://www.npmjs.com/package/@tencentcloud/chat)
