@@ -1,6 +1,14 @@
 ## 关于项目
 基于Tencent IM开发的ChatBot聊天对话微信小程序示例
 
+## todo
+
+- 腾讯IM环境集成 ☑️
+- 实现1v1对话，发送一条消息 ☑
+- 实现群对话 ☑
+- 自定义发送一个消息体
+- 自定义气泡
+
 ## 开发环境要求
 * HBuilderX 需要升级到最新版本
 * TypeScript / JavaScript （TUIKit 使用 ts 语言开发，支持在 js 或者 ts 项目中集成）
